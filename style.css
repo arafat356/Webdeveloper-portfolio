@@ -137,3 +137,7 @@ main {
 .about-info {
   text-align: center;
 }
+
+#whatido-description {
+  padding: 30px 150px;
+}
