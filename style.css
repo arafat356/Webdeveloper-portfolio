@@ -108,6 +108,11 @@ nav a {
 
 /* main section  */
 
+main {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
 /* about section  */
 
 .about {
@@ -121,4 +126,14 @@ nav a {
   color: var(--dark-03, #757575);
   text-align: center;
   font-size: 18px;
+}
+
+.about-info-container {
+  display: flex;
+  justify-content: space-around;
+  /* text-align: center; */
+}
+
+.about-info {
+  text-align: center;
 }
