@@ -172,3 +172,39 @@ main section {
   font-style: normal;
   font-weight: 700;
 }
+
+.resume-container {
+  display: flex;
+  gap: 50px;
+  margin-top: 50px;
+}
+
+.resume-item-institude {
+  margin-bottom: 20px;
+  margin-top: 0px;
+}
+
+.resume-item-description,
+.resume-item-institude {
+  color: #757575;
+}
+
+.resume-item-title {
+  color: #474747;
+  font-family: Open Sans;
+  font-size: 25px;
+  font-style: normal;
+  /* font-weight: 700; */
+  margin-bottom: 10px;
+}
+
+.resume-container hr {
+  margin: 20px;
+}
+
+/* button  */
+
+.download-cv {
+  text-align: center;
+  margin-top: 50px;
+}
