@@ -163,3 +163,12 @@ main section {
 .skill-description {
   color: var(--dark-03, #757575);
 }
+
+/* Resume section style  */
+
+.resume-colum-title {
+  color: #474747;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+}
